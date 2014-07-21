@@ -1,4 +1,7 @@
-
+WARNING
+-------
+    *This a temporary fork to quickly fix python bin problem. My system is running python 3.4 by default so I need to 
+        hardcode path to python 2.7 bin*
 
 Add-on SDK README
 ==================
